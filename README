@@ -1,0 +1,3 @@
+Hey, a quick program I made after reading the Wikipedia article on autostereograms.  I always wondered how those worked, and now I know.  Create a double[][] depthmap and feed it to genImage to get an autostereogram of said depthmap.  Currently comprised of a bunch of small randomly colored circles.  Could probably be improved to use some base image or something, probably pretty easily, too.  Maybe I'll do that at some point.  Released under the GPL v3.
+
+-Erhannis
